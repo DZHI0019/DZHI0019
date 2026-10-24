@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DZHI0019/DZHI0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soma
 
-Here are some ideas to get you started:
+```ini
+soma@localhost
+──────────────────
+OS       Windows / Linux
+Site     dzhi.site
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DZHI0019/DZHI0019/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DZHI0019/DZHI0019/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/DZHI0019/DZHI0019/output/snake.svg" width="100%" />
+</picture>
+
+</div>
